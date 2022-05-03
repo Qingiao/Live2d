@@ -38,11 +38,3 @@
                 },
                 
                 
-              MOTION_GROUP_IDLE : "idle", // 空闲时
-    MOTION_GROUP_TAP_BODY : "tap_body", // 点击身体时
-    MOTION_GROUP_FLICK_HEAD : "flick_head", // 抚摸头部
-    MOTION_GROUP_PINCH_IN : "pinch_in", // 放大时
-    MOTION_GROUP_PINCH_OUT : "pinch_out", // 缩小时
-    MOTION_GROUP_SHAKE : "shake", // 摇晃
-            });
-            
